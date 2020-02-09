@@ -8,6 +8,12 @@
     Application for challenges 5 and 6 of the GoStack 10 bootcamp
 </p>
 
+# Cloning this repository
+
+```
+$ git clone https://github.com/RennanD/githunt.git
+```
+
 # ❗️ Requisites
 
 For all aplication we need have installed:
