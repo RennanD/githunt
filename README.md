@@ -1,9 +1,19 @@
+<h1 align="center" width = "240px">
+    <img src="./assets/github.svg">
+</h1>
+
 <h3 align="center"> GitHunt, application made with React. </h3>
 
 <p align="center"> 
-    application made for study, made with ReactJs in the web part 
-    and React Native in the mobile part.
+    Application for challenges 5 and 6 of the GoStack 10 bootcamp
 </p>
+
+# ❗️ Requisites
+
+For all aplication we need have installed:
+
+- [Node](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/lang/en/)
 
 ## 💻 Web Application
 
@@ -16,18 +26,13 @@ Search Github public API repositories and add them to the
 application, so you can view their issues inside it.
 </h3>
 
-### ❗️ Requisites
-
-- [Node](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/lang/en/)
-
 ### ⚡️ Start
 
 To start application, run:
 
-```bash
+```
 $ cd frontend
-$ yarn install
+$ yarn
 $ yarn start
 ```
 
@@ -46,38 +51,36 @@ Search for users of the Github API and each one,
 see which repositories he has favorited.
 </h3>
 
-### ❗️ Requisites
+## ❗️ Requisites
 
-- [Node](https://nodejs.org/en/)
 - [react-native-cli](https://github.com/react-native-community/cli)
-- [Yarn](https://yarnpkg.com/lang/en/)
 
-#### 👾 Android
+### 👾 Android
 
 - [Android Sdk](https://developer.android.com/studio)
 
-#### 🍎 Ios
+### 🍎 Ios
 
 - [XCode](https://developer.apple.com/xcode/)
 
-### ⚡️ Start
+## ⚡️ Start
 
 To start application, run:
 
-```bash
+```
 $ cd mobile
 $ yarn install
 ```
 
-#### 🍎 Ios
+### 🍎 Ios
 
-```bash
+```
 $ react-native run-ios
 ```
 
-#### 👾 Android
+### 👾 Android
 
-```bash
+```
 $ react-native run-android
 ```
 
