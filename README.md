@@ -1,5 +1,5 @@
-<h1 align="center" width = "240px">
-    <img src="./assets/github.svg">
+<h1 align="center" >
+    <img src="./assets/github.svg" width = "240px">
 </h1>
 
 <h3 align="center"> GitHunt, application made with React. </h3>
